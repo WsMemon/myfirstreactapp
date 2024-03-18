@@ -157,3 +157,25 @@ footer p {
     width: 70%;
   }
 }
+
+
+/* custom crud list code */
+code {
+  font-size: 1.2em;
+}
+
+ul {
+  padding-inline-start: 20px;
+}
+
+button {
+  margin: 5px;
+}
+li {
+  list-style-type: none;
+}
+ul,
+li {
+  margin: 0;
+  padding: 0;
+}

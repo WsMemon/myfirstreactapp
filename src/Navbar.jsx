@@ -68,6 +68,16 @@ const Navbar = () => {
                         Contact
                       </NavLink>
                     </li>
+
+                    <li className="nav-item">
+                      <NavLink
+                        activeClassName="menu_active"
+                        className="nav-link"
+                        to="/crudlist"
+                      >
+                        Crud
+                      </NavLink>
+                    </li>
                   </ul>
                 </div>
               </div>
